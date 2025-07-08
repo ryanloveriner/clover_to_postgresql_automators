@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  7 11:11:03 2025
-
 @author: ryanc
 """
 
