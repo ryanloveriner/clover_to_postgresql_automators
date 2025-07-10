@@ -59,5 +59,5 @@ def format_clover_cleaned_v2(input_path, output_path):
 
 # Example usage
 if __name__ == "__main__":
-    format_clover_cleaned_v2("December Red Cleaned.csv",
-                             "December Red Cleaned Formatted.csv")
+    format_clover_cleaned_v2(#Name of file to be cleaned here#,
+                             #Desired name of output file here#)
