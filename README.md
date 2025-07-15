@@ -4,6 +4,6 @@ Iconik Coffee Roasters uses the POS system Clover for its cafe sales. While Clov
 
 1) [Clean the csv file with this python script](https://github.com/ryanloveriner/clover_data_cleaner/blob/main/clean_clover_report.py)
 
-2) [Format the csv file with this one]()
+2) [Format the csv file with this one](https://github.com/ryanloveriner/clover_to_postgresql_automators/tree/clover_formatter?tab=readme-ov-file)
 
 3) [And automatically upload to DBeaver with this one]()
