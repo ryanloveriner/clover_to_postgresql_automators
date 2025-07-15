@@ -6,4 +6,4 @@ Iconik Coffee Roasters uses the POS system Clover for its cafe sales. While Clov
 
 2) [Format the csv file with this one](https://github.com/ryanloveriner/clover_to_postgresql_automators/tree/clover_formatter?tab=readme-ov-file)
 
-3) [And automatically upload to DBeaver with this one]()
+3) [And automatically upload to DBeaver with this one](https://github.com/ryanloveriner/clover_to_postgresql_automators/tree/dbeaver_uploader?tab=readme-ov-file)
